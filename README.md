@@ -1,3 +1,5 @@
+<span style="color: red; font-weight: bold">This fork uses PHP7.1</span>
+
 # Intro
 
 This repository is part of Magento DevBox, a simple way to install a Magento 2 development environment. 
